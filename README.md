@@ -21,7 +21,7 @@ Arriving at the best number of topics is determined by the metrics obtained from
 	* Arun2010
 	* Deveaud2014
 	
-Number of topics identified in questions = 4
+Number of topics identified in questions = 4  
 Number of topics identified in answers = 9
 
 From the topics identified from q_contents, which talks about people expressing their mental difficulties, it is found that anxiety, depression, work related problems, school related problems (maybe bullying from friends), relationship problems, less support from parents, family problems etc. can be the top reasons for mental disorder in the society.
